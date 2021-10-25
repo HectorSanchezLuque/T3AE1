@@ -1,3 +1,7 @@
 Sánchez
 Haciendo cambios
+<<<<<<< HEAD
 Usuari2
+=======
+Usuari1
+>>>>>>> origin/master
